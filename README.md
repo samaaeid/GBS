@@ -1,2 +1,2 @@
 # GBS
-This project shows you the shortest path from source to destination using DIJKSTRA algorithm and Adjacency list.
+This project shows you the shortest path from source governorate to destination using DIJKSTRA algorithm and Adjacency list.
